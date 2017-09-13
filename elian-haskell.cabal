@@ -21,7 +21,8 @@ library
                        Text.Elian.Render.Rasterific.Simple
   build-depends:       base >= 4.7 && < 5,
                        boxes,
-                       Rasterific, JuicyPixels
+                       Rasterific, JuicyPixels, FontyFruity,
+                       data-default
   default-language:    Haskell2010
 
 
